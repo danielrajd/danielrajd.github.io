@@ -5,7 +5,7 @@
   * The library should be uploaded to: vendor/php-email-form/php-email-form.php
   * For more info and help: https://bootstrapmade.com/php-email-form/
   */
-$recipient_email = "your_email@example.com";
+$recipient_email = "danny.raj12@gmail.com";
 
 if (isset($_POST['recaptcha-response'])) {
   $url = 'https://www.google.com/recaptcha/api/siteverify';
